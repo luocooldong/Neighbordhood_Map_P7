@@ -3,7 +3,7 @@
 
 ## 使用指南
 
-1.下载代码库
+1.下载代码库  git clone https://github.com/luocooldong/Neighbordhood_Map_P7.git
    
 
 2.点击项目根目录中的index.html 即可运行项目

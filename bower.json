@@ -1,0 +1,19 @@
+{
+  "name": "Neighbordhood_Map_P7",
+  "version": "1.0.0",
+  "description": "Udacity Font-End Developer P7",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Gengyudong"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
